@@ -1,1 +1,10 @@
-
+.personCard {
+  border: 1px solid black;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  height: 400px;
+  margin: 15px;
+  opacity: 70%;
+  /* width: 30%; */
+}
